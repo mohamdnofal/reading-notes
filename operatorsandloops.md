@@ -66,7 +66,7 @@ If the first condition can provide enough information to get the answer, then th
 
 1-  ( *False && anything^It has found a false .* )
 
- 2- *True '(||)'  anything 
+ 2- *True `(||)`  anything 
 ^
 It has found a true .* 
 
