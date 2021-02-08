@@ -1,7 +1,8 @@
-# COMPPARISON OPERATORS:
+# COMPPARISON OPERATORS SUMMARY :
 
 
 **EVALUATING CONDITIONS :**
+
  You can evaluate a situation by comparing one value in the script to what you expect it might be> the result will be a Boolean: true or false> .
 - ***1- (==) IS EQUAL 
 TO :***
@@ -63,11 +64,11 @@ Logical expressions evaluation left to right
 If the first condition can provide enough information to get the answer, then there is no need to evaluate second condition.
 
 
-- 1- *False && anything^It has found a false .*
+- 1-  ( *False && anything^It has found a false .* )
 
-- 2- *True || anything 
+- 2- ( *True || anything 
 ^
-It has found a true .*
+It has found a true .* )
 
 
 
