@@ -48,11 +48,11 @@ Logical operators allow you to compares the results of more than one comparison 
 
     This operator takes a single Boolean value and inverts it.
 
-- 2- ***(||) LOGECAL OR :***
+- 2- ***`(||)` LOGICAL OR :***
 
     This operator test at least one condition.
 
-- 3- ***(&&) LOGECAL AND :***
+- 3- ***(&&) LOGICAL AND :***
 
     This operator test more than one condition.
 
@@ -64,11 +64,11 @@ Logical expressions evaluation left to right
 If the first condition can provide enough information to get the answer, then there is no need to evaluate second condition.
 
 
-- 1-  ( *False && anything^It has found a false .* )
+1-  ( *False && anything^It has found a false .* )
 
-- 2- ( *True || anything 
+ 2- *True '(||)'  anything 
 ^
-It has found a true .* )
+It has found a true .* 
 
 
 
