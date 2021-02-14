@@ -14,11 +14,11 @@
 
 **Html uses elements to describe the structure of pages :**
 
-![Erorr](img/ex1.png)
+![Erorr](ex1.png)
 
 **a cLoser look at tags :**
 
-![Error](img/ex2.png)
+![Error](ex2.png)
 
 **Attributes teLL us more about eLements :**
 
