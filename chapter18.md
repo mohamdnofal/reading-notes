@@ -1,12 +1,12 @@
-# This section discusses a process that you can use when you are creating a new website. 
+# This section discusses a process that you can use when you are creating a new website
+
 - It looks at who might be visiting your site and how to ensure the pages feature the information those visitors need. It also covers some key aspects of design theory to help you create professional looking sites. In this chapter , lock at this :
 
 ![Erorr](picture1.png)
 
--------------- 
+--------------
 
 **Who is the site For?**
-
 
 *Every website should be designed for the target audience—not just for yourself or the site owner. It is therefore very important to understand who your target audience is.*
 
@@ -14,7 +14,6 @@
 
 *1 - nDiviDuals .*  
 *2 - comPanies .*
-
 
 **Why People visit your website:**
 
@@ -40,13 +39,11 @@ of reasons why people would be coming to your site.*
 
 - A website will need to change a  frequently .
 
-
 **Site maps :**
 
 *The aim is to create a diagram of the pages that will be used to structure the site. This is known as a site map and it will show how those pages can be grouped.*
 
 **WireFrames :**
-
 
 *A wireframe is a simple sketch of the key information that needs to go on each page of a site. It shows the hierarchy of the information and how much space it might require.*
 
@@ -56,7 +53,7 @@ of reasons why people would be coming to your site.*
 
 **visual hierarchy :**  
 
- - 1- *Size
+- 1- *Size
 Larger elements will grab users' attention first. For this reason it is a good idea to make headings and key points relatively large.*
 
 - 2- *color
@@ -66,15 +63,10 @@ Foreground and background color can draw attention to key messages. Brighter sec
 An element may be the same size and color as surrounding content but have a different style applied to it to make it stand out.*
 
 **Grouping and similarity :**
+
 - *We naturally observe similarities in design, and things that are similar are perceived to be more related than things that are dissimilar. Repetition
 of similar color, size, orientation, texture, font, or shape, suggests that matching elements have similar importance or meaning.*
 
 **Designing navigation:**
 
-
 - *ite navigation not only helps people find where they want to go, but also helps them understand what your site is about and how it is organized. Good navigation tends to follow these principles.*
-
-
-
-
-
