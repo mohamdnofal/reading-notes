@@ -42,7 +42,6 @@ If you want a link to open in a new window, you can use the target attribute on 
 
 **Linking to a specific part of the same page:**
 
-
 At the top of a long page
 you might want to add a list
 of contents that links to the corresponding sections lower down. Or you might want to add a link from part way down the page back to the top of it to save users from having to scroll back to the top.
@@ -58,7 +57,6 @@ If you want to link to a specific part of a different page (whether on your own 
 **CHAPTER 15:**
 
 **Key ConCepts in positioning eLements**
-
 Building Blocks:
 
 - Css treats each HTML element as if it is in its own box. This box will either be a block-level box or an inline box.
@@ -99,11 +97,11 @@ If you want to control which element sits on top, you can use the z-index proper
 **Floating elements:**
 
 - The float property allows you to take an element in normal flow and place it as far to the left or right of the containing element as possible. Anything else that sits inside the containing element will flow around the element that is floated.
-When you use the float property, you should also use the width property to indicate how wide the floated element should be. If you do not, results can be inconsistent but the box is likely to take up the full width of the containing element (just like it would in normal flow). 
+When you use the float property, you should also use the width property to indicate how wide the floated element should be. If you do not, results can be inconsistent but the box is likely to take up the full width of the containing element (just like it would in normal flow).
 
 **screen sizes :**
 
-- Different visitors to your site will have different sized screens that show different amounts of information, so your design needs to be able to work on a range of different sized screens.
+    - Different visitors to your site will have different sized screens that show different amounts of information, so your design needs to be able to work on a range of different sized screens.
 
 **sCreen resoLution :**
 
