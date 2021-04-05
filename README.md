@@ -34,9 +34,9 @@
 | code 301 reading notes |
 | ------- | ------ |
 |[SMACSS and RWD](https://mohamdnofal.github.io/reading-notes/301-1)
-|[jQUERY](https://mohamdnofal.github.io/reading-notes/301-2)|
-|[Flexbox and Templating](https://mohamdnofal.github.io/reading-notes/301-3)|
-|[Responsive Web Design and Regular Expressions](https://mohamdnofal.github.io/reading-notes/301-4)|
-|[HEROKU](https://mohamdnofal.github.io/reading-notes/301-5)| |
-|[Node, Express, and APIs](https://mohamdnofal.github.io/reading-notes/301-6)|
+|[jQUERY](https://mohamdnofal.github.io/reading-notes/301-2)
+|[Flexbox and Templating](https://mohamdnofal.github.io/reading-notes/301-3)
+|[Responsive Web Design and Regular Expressions](https://mohamdnofal.github.io/reading-notes/301-4)
+|[HEROKU](https://mohamdnofal.github.io/reading-notes/301-5)
+|[Node, Express, and APIs](https://mohamdnofal.github.io/reading-notes/301-6)
 |[APIs Continued](https://mohamdnofal.github.io/reading-notes/301-7)
