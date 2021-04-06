@@ -39,4 +39,4 @@
 |[Responsive Web Design and Regular Expressions](https://mohamdnofal.github.io/reading-notes/301-4)
 |[HEROKU](https://mohamdnofal.github.io/reading-notes/301-5)
 |[Node, Express, and APIs](https://mohamdnofal.github.io/reading-notes/301-6)
-|[APIs Continued](https://mohamdnofal.github.io/reading-notes/301-7)
+|[APIs Continued](https://mohamdnofal.github.io/reading-notes/301-7)| hi
